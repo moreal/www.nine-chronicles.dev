@@ -33,6 +33,8 @@
     justify-content: space-between;
     align-items: center;
     gap: 60px;
+
+    word-break: keep-all;
 }
 
 .image-container {

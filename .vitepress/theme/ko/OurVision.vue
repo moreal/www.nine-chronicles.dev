@@ -56,6 +56,8 @@
 
     width: 100%;
     gap: 40px;
+
+    word-break: keep-all;
 }
 
 .buttons-container {
